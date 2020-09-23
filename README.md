@@ -1,6 +1,6 @@
 # Ronin Dojo Guides
 
-This out out of date!!! Please see the Wiki here https://code.samourai.io/ronindojo/RoninDojo/
+This guide is out of date! Please see the new project Wiki https://wiki.ronindojo.io/ and website https://ronindojo.io/
 
 Ronin Dojo is the RPi4 and Odriod N2 installation variant of Samourai Wallet's Dojo. This is not a change to their code or application, rather the installation process modified specifically for RPi4/Odroid. 
 
